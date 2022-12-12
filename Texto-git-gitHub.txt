@@ -1,2 +1,2 @@
-"Hello, I'm skater "
+"Hello, I'm skater ". I play skate evereday
 "Hello, I'm your new row"
